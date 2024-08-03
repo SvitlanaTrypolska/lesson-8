@@ -1,0 +1,192 @@
+@font-face {
+  font-family: 'CeraPro';
+  src: url(./fonts/CeraPro-Bold.eot);
+}
+@font-face {
+  font-family: "CeraPro";
+  src: url(./fonts/CeraPro-RegularItalic.woff2);
+}
+@font-face {
+  font-family: "CeraPro";
+  src: url(./fonts/CeraPro-Bold.woff2);
+}
+@font-face {
+  font-family: "CeraPro";
+  src: url(./fonts/CeraPro-Medium.woff2);
+}
+@font-face {
+  font-family: "CeraPro";
+  src: url(./fonts/CeraPro-Bold.woff);
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+}
+body {
+  font-family: CeraPro, sans-serif;
+  font-weight: 700;
+  width: 1202px;
+  height: 887px;
+  position: absolute;
+}
+.wrapper {
+  max-width: 1202px;
+  margin: 0 auto;
+  height: 100%;
+}
+.section {
+  width: 1202px;
+  height: 302px;
+  display: flex;
+  align-items: stretch;
+}
+.container-left, .container-right {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.container-left {
+  width: 586px;
+  height: 302px;
+  margin: 69px 28px 38px 120px;
+  text-align: left;
+}
+.container-right {
+  width: 586px;
+  height: 302px;
+  margin: 69px 28px 38px;
+  text-align: right;
+}
+p {
+  font-family: CeraPro, sans-serif;
+  font-weight: 900;
+}
+.description {
+  font-family: CeraPro, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.btn-Button-btn {
+  margin: 46px 30px 0 416px;
+  background-color: forestgreen;
+}
+.caption h1 {
+  font-family: CeraPro;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+}
+.caption p {
+  margin: 15px 323px 397px 322px;
+  text-align: center;
+  font-size: 14px;
+  font-family: CeraPro, sans-serif;
+  font-weight: 400;
+}
+.flex-container, .flex-container1, .flex-container2, .flex-container3 {
+  display: flex;
+  flex-direction: column;
+  width: 268px;
+  height: 362px;
+}
+.flex-container img, .flex-container1 img, .flex-container2 img, .flex-container3 img {
+  width: 268px;
+  height: 195px;
+}
+.post-meta {
+  font-family: CeraPro, sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  text-align: center;
+}
+.post-title {
+  font-family: CeraPro, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+.post-description {
+  font-family: CeraPro, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  line-height: 22px;
+  width: 242px;
+  height: 44px;
+  padding: 4px 0;
+}
+.btn-Button-btn1 {
+  width: 89px;
+  height: 17px;
+  margin: 9px 172px 13px 15px;
+}
+.btn {
+  background: rgba(70, 163, 88, 1);
+  color: white;
+  border-radius: 6px;
+  padding: 8px 16px;
+  width: 140px;
+  height: 40px;
+}
+.btn-Button-btn {
+  margin: 46px 30px 0 416px;
+  background-color: forestgreen;
+}
+.caption h1 {
+  font-family: CeraPro;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+}
+.caption p {
+  margin: 15px 323px 397px 322px;
+  text-align: center;
+  font-size: 14px;
+  font-family: CeraPro, sans-serif;
+  font-weight: 400;
+}
+
+.btn-Button-btn1 {
+  
+    margin: 46px 30px 0 416px;
+    background-color: forestgreen;
+  }
+  
+ 
+  
+  
+  
+   
+    .h8 {
+      font-family: CeraPro;
+      font-weight: 500;
+      font-size: 14px;
+    }
+    span {
+      background: rgba(70, 163, 88, 1);
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
