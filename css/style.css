@@ -1,5 +1,4 @@
 
-@import "./fonts.css";
 * {
   margin: 0;
   padding: 0;
@@ -9,7 +8,7 @@
 }
 
 body {
-  font-family: CeraPro, sans-serif;
+  font-family:"CeraPro",sans-serif;
   font-weight: 400;
     position: relative;
     margin: 0;
@@ -106,7 +105,7 @@ position: relative;
   
 }
 .p {
-  font-family: CeraPro, sans-serif;
+  font-family: "CeraPro", sans-serif;
   font-weight: 900;
   float: left;
   column-gap: normal;
@@ -173,7 +172,7 @@ position: relative;
 }
 
 .span {
-  font-family: CeraPro, sans-serif;
+  font-family: "CeraPro", sans-serif;
 font-size: 14px;
 font-weight: 500;
 background: rgba(70, 163, 88, 1);
@@ -186,7 +185,7 @@ background: rgba(70, 163, 88, 1);
   flex-basis: 15px;
 
  .h1 {
-  font-family: CeraPro,sans-serif;
+  font-family: "CeraPro",sans-serif;
   font-weight: 700;
   font-size: 16px;
   margin-bottom: 15px;
@@ -216,7 +215,7 @@ background: rgba(70, 163, 88, 1);
 }
 
 .post-meta {
-  font-family: CeraPro, sans-serif;
+  font-family: "CeraPro",sans-serif;
   font-weight: 500;
   font-size: 14px;
   text-align: center;
@@ -227,7 +226,7 @@ background: rgba(70, 163, 88, 1);
 }
 
 .post-title {
-  font-family: CeraPro, sans-serif;
+  font-family:"CeraPro",sans-serif;
   font-size: 20px;
   font-weight: 700;
   text-align: center;
@@ -237,7 +236,7 @@ background: rgba(70, 163, 88, 1);
 }
 
 .post-description {
-  font-family: CeraPro, sans-serif;
+  font-family: "CeraPro",sans-serif;
   font-size: 14px;
   font-weight: 400;
   text-align: center;
